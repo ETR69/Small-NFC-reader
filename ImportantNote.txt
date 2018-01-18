@@ -1,0 +1,4 @@
+Read this note, please:
+
+1) From schematic you will soldering only C12; its value is 560pF
+2) X1 (crystal unit) was mirrored on pcb. My fault! Please rotate the component of 90° 
