@@ -8,3 +8,9 @@ Read this note, please:
 
 I have correct X1 (crystal unit) pcb footprint.
 Please download "Small-NFC-reader_correct.zip" Gerber files.
+
+18/02/2018 
+
+Tested 19 sensors with Small NFC reader + Arduino uno: I'm not able to read memory only on 3 of them. 
+I.E. 16 sensors works and 3 sensors don't work.
+I will review the correct matching between antenna and CR95HF chip. This will affect the Bill Of Materials.
