@@ -3,6 +3,6 @@ Read this note, please:
 1) From schematic you will soldering only C12 and NOT C11 ; its value is 330pF
 2) C10 and C13 are OPEN (no solder any Capacitors);
 3) R6=R9=270 Ohm
-Have a look to CorrectMatch.jpg please.
+Have a look to CorrectMatching.jpg please.
 
 
